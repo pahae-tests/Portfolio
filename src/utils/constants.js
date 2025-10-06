@@ -397,7 +397,7 @@ const projects = [
     description:
       "Portfolio personnel moderne présentant mes projets, compétences, certifications et parcours académique, avec une mise en page claire et un design réactif.",
     technologies: ["HTML", "TailwindCSS", "JS", "PHP"],
-    type: "commercialisé",
+    type: "personnel",
     github: "https://github.com/oPahae/Portfolio",
     website: "https://pahae.vercel.app",
     lvl: 0,
@@ -406,4 +406,5 @@ const projects = [
 ];
 
 export { socials, achievements, SKILLS, feedbacks, projects };
+
 
