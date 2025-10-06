@@ -398,11 +398,12 @@ const projects = [
       "Portfolio personnel moderne présentant mes projets, compétences, certifications et parcours académique, avec une mise en page claire et un design réactif.",
     technologies: ["HTML", "TailwindCSS", "JS", "PHP"],
     type: "commercialisé",
-    github: "",
-    website: "https://location-autocar.com",
+    github: "https://github.com/oPahae/Portfolio",
+    website: "https://pahae.vercel.app",
     lvl: 0,
     createdAt: "29/02/2025",
   },
 ];
 
 export { socials, achievements, SKILLS, feedbacks, projects };
+
